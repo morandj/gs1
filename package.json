@@ -1,0 +1,13 @@
+{
+  "name": "gs1",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0"
+  }
+}
